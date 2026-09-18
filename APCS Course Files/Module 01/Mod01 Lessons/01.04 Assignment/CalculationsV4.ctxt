@@ -1,0 +1,7 @@
+#BlueJ class context
+#Fri Sep 18 10:36:18 EDT 2026
+comment0.target=CalculationsV4
+comment0.text=\r\n The CalculationsV4 class performs addition, subtraction,\r\n multiplication, division, and modulus operations on integers and\r\n decimals.\r\n  \r\n @ author Evan Dockter\r\n @ version9/18/2026\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
